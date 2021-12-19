@@ -212,7 +212,7 @@ body {
 }
 
 .btn-primary {
-  background: #7839F3;
+  background: #2398f2;
   color: #fff;
 }
 
@@ -268,7 +268,7 @@ body {
 }
 
 .text-purple {
-  color: #7839F3;
+  color: #2398f2;
 }
 
 .text-white {
@@ -277,7 +277,7 @@ body {
 
 .btn-secondary {
   background: #F5EFFF;
-  color: #7839F3;
+  color: #2398f2;
 }
 
 .banner {
@@ -285,7 +285,7 @@ body {
 }
 
 .banner .copywriting {
-  padding-top: 60px;
+  padding-top: 20px;
 }
 
 .banner .header {
@@ -379,8 +379,8 @@ body {
   padding-left: 30px;
 }
 
-.navbar .navbar-nav .active {
-  color: #7839F3 !important;
+.navbar .navbar-nav .nav-link:hover {
+  color: #2398f2 !important;
   font-weight: 500;
 }
 
